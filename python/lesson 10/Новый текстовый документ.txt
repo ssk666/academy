@@ -1,0 +1,1 @@
+повторить map, filtered, args, kwargs (dz do due to) 18.09 lesson 11

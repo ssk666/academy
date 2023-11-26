@@ -1,0 +1,4 @@
+concatenate | <built-in method now of type object at 0x00007FFBA1D80F10> | unsupported operand type(s) for +: 'int' and 'str'
+division | <built-in method now of type object at 0x00007FFBA1D80F10> | division by zero
+concatenate | <built-in method now of type object at 0x00007FFB9F6B0F10> | unsupported operand type(s) for +: 'int' and 'str'
+division | <built-in method now of type object at 0x00007FFB9F6B0F10> | division by zero
